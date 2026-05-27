@@ -23,4 +23,4 @@ This repository is designed to demonstrate practical understanding of:
 
 ## Disclaimer
 
-Some projects are conceptual and based on simulated scenarios. They are intended for educational and portfolio purposes, not production use.
+Projects are conceptual and based on simulated scenarios. They are intended for educational and portfolio purposes, not production use.
