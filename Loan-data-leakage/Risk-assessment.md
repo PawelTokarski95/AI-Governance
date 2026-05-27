@@ -215,7 +215,7 @@
         Model Risk Management Team, 
         ML Engineering Team.
         
-## Risk 7: Model Bias / Unfairness
+## Risk 7: Model Bias
 
     • Description: The risk that the credit model generates
     disproportionately unfavorable decisions for specific
