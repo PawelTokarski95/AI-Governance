@@ -27,7 +27,7 @@ team communication, and pipeline monitoring. In the event of such an incident, t
         ◦ The crisis action plan.
           Crisis management and incident escalation procedures must be activated immediately.
 
-##    4. Forensics & Incident Analysis
+##    4. Forensics and Incident Analysis
 
        The cybersecurity team must begin an incident response and digital forensics analysis to determine:
 
@@ -45,7 +45,7 @@ team communication, and pipeline monitoring. In the event of such an incident, t
         ◦ Shifts in data distribution,
         ◦ Potential breaches in data pipeline integrity.
 
-##    6. Model Rollback & Fallback Plan
+##    6. Model Rollback and Fallback Plan
 
        The ML model must be removed from production (rollback), and the organization should temporarily switch to:
 
@@ -87,7 +87,7 @@ team communication, and pipeline monitoring. In the event of such an incident, t
         ◦ Lack of proper governance procedures,
         ◦ Poor communication between teams.
 
-##    11. Remediation & Corrective Actions
+##    11. Remediation and Corrective Actions
 
        After finishing the analysis, the organization must
        implement corrective actions:
