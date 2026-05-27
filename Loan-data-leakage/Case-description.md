@@ -9,4 +9,4 @@ The management board was in shock and immediately stopped the project. The regul
 Our Data Science team consisted of less experienced employees. They were so excited about how well the model performed on their computers that they didn’t notice the algorithm was learning from fake profiles planted by criminals. As a result, the model viewed the fraudsters as "ideal customers" and started approving company money for them automatically. Due to this lack of data control, the company broke EU regulations, specifically the AI Act, and had to pay massive fines on top of the losses from unpaid loans.
 Shortly after, we learned what should have been done to eliminate this kind of problem... 
 
-## To be continued in the remaining sections of the case study)
+## To be continued in the remaining sections of the case study
