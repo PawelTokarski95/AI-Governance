@@ -7,12 +7,14 @@ As a result, the model was trained and fed with data that did not reflect the re
 ## Data problems
 To build the model, the company decided to use the following independent variables for prediction:
 
-##Standard Problematic
-Income 	Gender 
-Employment Type  	Marital Status 
-Length of Employment  	Place of Residence 
-DTI ratio 	Transaction History  
-...	...
+| Standard              | Problematic          |
+|----------------------|---------------------|
+| Income               | Gender              |
+| Employment Type      | Marital Status      |
+| Length of Employment | Place of Residence  |
+| DTI ratio            | Transaction History |
+| ...                  | ...                 |
+
 The table above clearly shows that apart from the typical data needed for risk prediction, the model also included sensitive data. This increases the probability that customers who would normally get a loan without this data would stop receiving them, and vice versa. This introduces an element of discrimination.
 While transaction history and location are standard in risk analysis, when combined with gender and marital status, they started acting as proxy variables, multiplying the discriminatory effect and replicating biases.
 Example Scenario: A single mother with a child, living in a smaller town, with high expenses for medications due to a serious illness. The algorithm could automatically discriminate against such a person, even with other compensating factors—such as a well-paying remote job with promotion potential.
